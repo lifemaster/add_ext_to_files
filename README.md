@@ -1,3 +1,3 @@
-## Adding extensions to files withot ones
+## Adding extensions to files without ones
 
-This app allows to add extensions to files withot ones according to their type.
+This app allows to add extensions to files without ones according to their type.
